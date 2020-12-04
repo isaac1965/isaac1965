@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**isaac1965/isaac1965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**isaac1965/isaac1965** 
 
 Here are some ideas to get you started:
 
