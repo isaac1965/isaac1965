@@ -1,12 +1,13 @@
 <h1>Hi there<img src="https://media.giphy.com/media/3ohhwExYXg3q8oC26Q/giphy.gif" width=50></img></h1>
 
+![hola](src/img2.png)
 
 ### Social Media
 [![Facebook](https://img.shields.io/badge/facebook---?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](htts://facebook.com/https://www.facebook.com/isaac.maldonado.921/)
 [![Twitter](https://img.shields.io/badge/%40isaacmaldonad21---?style=for-the-badge&logo=x&logoColor=white&color=black)](httts://twitter.com/isaacamaldonad21)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM---?style=for-the-badge&logo=instagram&logoColor=white&color=%2389264c)](https://instagram.com/)
 
-![hola](src/img1.png)
+
 
 ### Technologies 
 ![HTML5](https://img.shields.io/badge/html5---?style=for-the-badge&logo=html5&logoColor=white&color=orange) 
