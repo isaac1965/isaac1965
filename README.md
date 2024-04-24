@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/%40isaacmaldonad21---?style=for-the-badge&logo=x&logoColor=white&color=black)](httts://twitter.com/isaacamaldonad21)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM---?style=for-the-badge&logo=instagram&logoColor=white&color=%2389264c)](https://instagram.com/)
 
-### technologies
+### Technologies 
 ![HTML5](https://img.shields.io/badge/html5---?style=for-the-badge&logo=html5&logoColor=white&color=orange) 
 ![CSS3](https://img.shields.io/badge/CSS3---?style=for-the-badge&logo=css3&logoColor=white&color=%20%232a0ecc%20)
 ![BOOSTRAP  ](https://img.shields.io/badge/BOOTSTRAP---?style=for-the-badge&logo=bootstrap&logoColor=white&color=%237a10f7)
