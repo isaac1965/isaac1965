@@ -18,7 +18,7 @@
 
 # Repos que te pueden interesar:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=vim-improved&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=Neovim&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=vim-improved&theme=dark)](https://github.com/isaac1965/vim-improved) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=Neovim&theme=dark)](https://github.com/isaac1965/Neovim)
 
 ### Social Media
 [![Facebook](https://img.shields.io/badge/facebook---?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](htts://facebook.com/https://www.facebook.com/isaac.maldonado.921/)
