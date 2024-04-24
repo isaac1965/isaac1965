@@ -1,4 +1,6 @@
-### Hi there  Isaac 👋
+<h1>Hi there<img src="https://media.giphy.com/media/3ohhwExYXg3q8oC26Q/giphy.gif" width=50></img></h1>
+
+
 ### Social Media
 [![Facebook](https://img.shields.io/badge/facebook---?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](htts://facebook.com/https://www.facebook.com/isaac.maldonado.921/)
 [![Twitter](https://img.shields.io/badge/%40isaacmaldonad21---?style=for-the-badge&logo=x&logoColor=white&color=black)](httts://twitter.com/isaacamaldonad21)
@@ -14,13 +16,18 @@
 ![LINUX](https://img.shields.io/badge/LINUX---?style=for-the-badge&logo=gnu&logoColor=white&color=gray)
 ![NEOVIM](https://img.shields.io/badge/NEOVIM---?style=for-the-badge&logo=neovim&logoColor=white&color=%20%23298926)
 
-# my stats:
-    
+<h1>My Stats<img sytle="margin-top:5px" src="https://media.giphy.com/media/26BRt5hkD6hLzTl3q/giphy.gif" width=50></img></h1>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac1965&show_icons=true&theme=dark) 
-# Skills: 
+
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac1965&hide_progress=true&theme=dark)
 
-# Repos que te pueden interesar:
+<h1>Repos que te pueden interesar: <img src="https://media.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif" width=50></img></h1>
+
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=vim-improved&theme=dark)](https://github.com/isaac1965/vim-improved) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=Neovim&theme=dark)](https://github.com/isaac1965/Neovim)
 
