@@ -10,11 +10,9 @@
 ![LINUX](https://img.shields.io/badge/LINUX---?style=for-the-badge&logo=gnu&logoColor=white&color=gray)
 ![NEOVIM](https://img.shields.io/badge/NEOVIM---?style=for-the-badge&logo=neovim&logoColor=white&color=%20%23298926)
 
-
-
-
-
-
+# my stats:
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac1965&show_icons=true&theme=dracula)
 
 ### Social Media
 [![Facebook](https://img.shields.io/badge/facebook---?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](htts://facebook.com/https://www.facebook.com/isaac.maldonado.921/)
