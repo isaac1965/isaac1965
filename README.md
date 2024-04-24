@@ -16,16 +16,17 @@
 ![LINUX](https://img.shields.io/badge/LINUX---?style=for-the-badge&logo=gnu&logoColor=white&color=gray)
 ![NEOVIM](https://img.shields.io/badge/NEOVIM---?style=for-the-badge&logo=neovim&logoColor=white&color=%20%23298926)
 
-<h1>My Stats<img sytle="margin-top:5px" src="https://media.giphy.com/media/26BRt5hkD6hLzTl3q/giphy.gif" width=50></img></h1>
+<h1>My Stats <img src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif" width=50></img></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac1965&show_icons=true&theme=dark) 
 
 
+<h1>SKILLS<img src="https://media.giphy.com/media/l46CBW3gBjDxj2Skg/giphy.gif"  width=50></img></h1>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac1965&hide_progress=true&theme=dark)
 
-<h1>Repos que te pueden interesar: <img src="https://media.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif" width=50></img></h1>
+<h1>Repos que te pueden interesar: <img src="https://media.giphy.com/media/xUA7bcJspBQvTfOne0/giphy.gif" width=50></img></h1>
 
 
 
