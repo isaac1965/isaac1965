@@ -12,7 +12,12 @@
 
 # my stats:
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac1965&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac1965&show_icons=true&theme=dracula) 
+# Skills: 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac1965&hide_progress=true&theme=dark)
+
+
+
 
 ### Social Media
 [![Facebook](https://img.shields.io/badge/facebook---?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](htts://facebook.com/https://www.facebook.com/isaac.maldonado.921/)
