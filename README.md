@@ -30,13 +30,13 @@ Connect with me on GitHub, and let’s explore the exciting world of technology 
 
 <h1>My Stats <img src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif" width=50></img></h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac1965&show_icons=true&theme=dark) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac1965&show_icons=true&theme=dark) 
 
 
 <h1>Skills<img src="https://media.giphy.com/media/l46CBW3gBjDxj2Skg/giphy.gif" width=50></img></h1>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac1965&hide_progress=true&theme=dark)
+![SKILLS](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac1965&hide_progress=true&theme=dark)
 
 <h1>Repositories that may interest you<img src="https://media.giphy.com/media/xUA7bcJspBQvTfOne0/giphy.gif" width=50></img></h1>
 
