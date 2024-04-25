@@ -48,4 +48,4 @@ Mis Intereses
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=vim-improved&theme=dark)](https://github.com/isaac1965/vim-improved) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=Neovim&theme=dark)](https://github.com/isaac1965/Neovim)
 
 
-<p style="margin:0 auto"><a href="https://www.buymeacoffee.com/https://paypal.me/buymeacoffe1996?country.x=VE&locale.x=es_XC"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://paypal.me/buymeacoffe1996?country.x=VE&locale.x=es_XC" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://paypal.me/buymeacoffe1996?country.x=VE&locale.x=es_XC"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align='center'height="50" width="210" alt="https://paypal.me/buymeacoffe1996?country.x=VE&locale.x=es_XC" /></a></p><br><br>
