@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&pause=1000&color=77F724&random=false&width=1900&height=520&lines=Hello+again%2C+I'm++Isaac++front-end;and+I+like+the+world+of+programming;Without+further+ado+let's+begin...)](https://git.io/typing-svg)
 
-## Acerca de mí
+## 🍁 Acerca de mí 🍁
 
 Soy un apasionado de la tecnología, los juegos y los desafíos en el mundo de la programación. Mi objetivo es explorar nuevas posibilidades y aprender constantemente. Siempre estoy emocionado por las últimas tendencias y las herramientas más innovadoras.
 Mis Intereses
