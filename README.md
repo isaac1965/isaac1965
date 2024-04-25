@@ -19,7 +19,7 @@ Connect with me on GitHub, and let’s explore the exciting world of technology 
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM---?style=for-the-badge&logo=instagram&logoColor=white&color=%23f14c55)](https://instagram.com/isaacmaldonado1996/)
 [![GITHUB PAGES](https://img.shields.io/badge/GITHUB-PAGES---?style=for-the-badge&logo=github&logoColor=white&color=%23262626)](https://github.com/isaac1965.github.io)
 
-<h2 align="center">Technologies</h2> 
+<h2>Technologies</h2> 
 
 ![HTML5](https://img.shields.io/badge/html5---?style=for-the-badge&logo=html5&logoColor=white&color=orange) 
 ![CSS3](https://img.shields.io/badge/CSS3---?style=for-the-badge&logo=css3&logoColor=white&color=%20%232a0ecc%20)
