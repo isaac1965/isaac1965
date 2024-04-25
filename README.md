@@ -1,6 +1,6 @@
 <h1>Hi there<img src="https://media.giphy.com/media/3ohhwExYXg3q8oC26Q/giphy.gif" width=50></img></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&color=77F724&random=false&width=1900&height=520&lines=Hello+again%2C+I'm++Isaac+developer+web+front-end;and+I+like+the+world+of+programming;Without+further+ado+let's+begin...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&pause=1000&color=77F724&random=false&width=1900&height=520&lines=Hello+again%2C+I'm++Isaac++front-end;and+I+like+the+world+of+programming;Without+further+ado+let's+begin...)](https://git.io/typing-svg)
 ### Social Media
 [![Facebook](https://img.shields.io/badge/facebook---?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](htts://facebook.com/https://www.facebook.com/isaac.maldonado.921/)
 [![Twitter](https://img.shields.io/badge/%40isaacmaldonad21---?style=for-the-badge&logo=x&logoColor=white&color=black)](httts://twitter.com/isaacamaldonad21)
