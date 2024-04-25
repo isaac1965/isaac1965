@@ -12,14 +12,14 @@ I’m passionate about technology, games, and challenges in the world of program
 
 Connect with me on GitHub, and let’s explore the exciting world of technology and programming together! 🚀
 
-<h2>Social Media:</h2>
+<h2>📌 Social Media:</h2>
 
 [![Facebook](https://img.shields.io/badge/facebook---?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](htts://facebook.com/https://www.facebook.com/isaac.maldonado.921/)
 [![Twitter](https://img.shields.io/badge/%40isaacmaldonad21---?style=for-the-badge&logo=x&logoColor=white&color=black)](httts://twitter.com/isaacamaldonad21)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM---?style=for-the-badge&logo=instagram&logoColor=white&color=%23f14c55)](https://instagram.com/isaacmaldonado1996/)
 [![GITHUB PAGES](https://img.shields.io/badge/GITHUB-PAGES---?style=for-the-badge&logo=github&logoColor=white&color=%23262626)](https://github.com/isaac1965.github.io)
 
-<h2>Technologies:</h2> 
+<h2>📌 Technologies:</h2> 
 
 ![HTML5](https://img.shields.io/badge/html5---?style=for-the-badge&logo=html5&logoColor=white&color=orange) 
 ![CSS3](https://img.shields.io/badge/CSS3---?style=for-the-badge&logo=css3&logoColor=white&color=%20%232a0ecc%20)
