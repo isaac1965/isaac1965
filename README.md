@@ -30,17 +30,17 @@ Connect with me on GitHub, and let’s explore the exciting world of technology 
 ![LINUX](https://img.shields.io/badge/LINUX---?style=for-the-badge&logo=gnu&logoColor=white&color=gray)
 ![NEOVIM](https://img.shields.io/badge/NEOVIM---?style=for-the-badge&logo=neovim&logoColor=white&color=%20%23298926)
 
-<h2>My Stats: <img src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif" width=50></img></h2>
+<h2><img src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif" width=50></img>My Stats: </h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac1965&show_icons=true&theme=dark&rank_icon=github) 
   
 
-<h2>Skills: <img src="https://media.giphy.com/media/l46CBW3gBjDxj2Skg/giphy.gif" width=50></img></h2>
+<h2><img src="https://media.giphy.com/media/l46CBW3gBjDxj2Skg/giphy.gif" width=50></img>Skills: </h2>
 
 
 ![SKILLS](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac1965&hide_progress=true&theme=dark)
 
-<h2>Repositories that may interest you: <img src="https://media.giphy.com/media/xUA7bcJspBQvTfOne0/giphy.gif" width=50></img></h2>
+<h2><img src="https://media.giphy.com/media/xUA7bcJspBQvTfOne0/giphy.gif" width=50></img>Repositories that may interest you: </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=vim-improved&theme=dark&show_owner=true)](https://github.com/isaac1965/vim-improved) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=Neovim&theme=dark&show_owner=true)](https://github.com/isaac1965/Neovim)
 
