@@ -2,24 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&pause=1000&color=77F724&random=false&width=1900&height=520&lines=Hello+again%2C+I'm++Isaac++front-end;and+I+like+the+world+of+programming;Without+further+ado+let's+begin...)](https://git.io/typing-svg)
 
-## 🍁 Acerca de mí 🍁
+## 🍁 About me 🍁
 
-Soy un apasionado de la tecnología, los juegos y los desafíos en el mundo de la programación. Mi objetivo es explorar nuevas posibilidades y aprender constantemente. Siempre estoy emocionado por las últimas tendencias y las herramientas más innovadoras.
-Mis Intereses
+I’m passionate about technology, games, and challenges in the world of programming. My goal is to explore new possibilities and learn constantly. I’m always excited about the latest trends and innovative tools. My Interests:
+* 🖥️ Technology: I love staying up-to-date with the latest developments in the tech world. From artificial intelligence to web development, I’m always researching and experimenting. 
+* 👾 Gaming: Video games are my passion. Whether playing or creating, I find inspiration in the creativity and fun they offer.
+* 🧠 Programming Languages: I’m comfortable with various languages like JavaScript, C, Python, and more. Each has its own charm and unique applications. 
+⚒️ New Challenges: There’s nothing more exciting than tackling a complex problem and finding ingenious solutions. Challenges motivate me to grow and improve constantly.
 
-* :desktop_computer: Tecnología: Me encanta estar al día con las últimas novedades en el mundo de la tecnología. Desde inteligencia artificial hasta desarrollo web, siempre estoy investigando y experimentando.
-* 👾 Juegos: Los videojuegos son mi pasión. Ya sea jugando o creando, encuentro inspiración en la creatividad y la diversión que ofrecen.
-* 🧠 Lenguajes de Programación: Me siento cómodo con varios lenguajes, como Javascript, C, Python y más. Cada uno tiene su propio encanto y aplicaciones únicas.
-* ⚒️ Nuevos Desafíos: No hay nada más emocionante que enfrentarse a un problema complejo y encontrar soluciones ingeniosas. Los desafíos me motivan a crecer y mejorar constantemente.
-   
-¡Conéctate conmigo en GitHub y exploremos juntos el emocionante mundo de la tecnología y la programación! 🚀
+Connect with me on GitHub, and let’s explore the exciting world of technology and programming together! 🚀
 
 ### Social Media
 [![Facebook](https://img.shields.io/badge/facebook---?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](htts://facebook.com/https://www.facebook.com/isaac.maldonado.921/)
 [![Twitter](https://img.shields.io/badge/%40isaacmaldonad21---?style=for-the-badge&logo=x&logoColor=white&color=black)](httts://twitter.com/isaacamaldonad21)
-[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM---?style=for-the-badge&logo=instagram&logoColor=white&color=%2389264c)](https://instagram.com/)
-
-
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM---?style=for-the-badge&logo=instagram&logoColor=white&color=%23f14c55)](https://instagram.com/isaacmaldonado1996/)
+[![GITHUB PAGES](https://img.shields.io/badge/GITHUB-PAGES---?style=for-the-badge&logo=github&logoColor=white&color=%23262626)](https://github.com/isaac1965.github.io)
 
 ### Technologies 
 ![HTML5](https://img.shields.io/badge/html5---?style=for-the-badge&logo=html5&logoColor=white&color=orange) 
@@ -36,12 +33,12 @@ Mis Intereses
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac1965&show_icons=true&theme=dark) 
 
 
-<h1>Skills<img src="https://media.giphy.com/media/l46CBW3gBjDxj2Skg/giphy.gif"  width=50></img></h1>
+<h1>Skills<img src="https://media.giphy.com/media/l46CBW3gBjDxj2Skg/giphy.gif" width=50></img></h1>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac1965&hide_progress=true&theme=dark)
 
-<h1>Repos que te pueden interesar: <img src="https://media.giphy.com/media/xUA7bcJspBQvTfOne0/giphy.gif" width=50></img></h1>
+<h1>Repositories that may interest you<img src="https://media.giphy.com/media/xUA7bcJspBQvTfOne0/giphy.gif" width=50></img></h1>
 
 
 
