@@ -1,6 +1,19 @@
 <h1>Hi there<img src="https://media.giphy.com/media/3ohhwExYXg3q8oC26Q/giphy.gif" width=50></img></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&pause=1000&color=77F724&random=false&width=1900&height=520&lines=Hello+again%2C+I'm++Isaac++front-end;and+I+like+the+world+of+programming;Without+further+ado+let's+begin...)](https://git.io/typing-svg)
+
+## Acerca de mí
+
+Soy un apasionado de la tecnología, los juegos y los desafíos en el mundo de la programación. Mi objetivo es explorar nuevas posibilidades y aprender constantemente. Siempre estoy emocionado por las últimas tendencias y las herramientas más innovadoras.
+Mis Intereses
+
+* Tecnología: Me encanta estar al día con las últimas novedades en el mundo de la tecnología. Desde inteligencia artificial hasta desarrollo web, siempre estoy investigando y experimentando.
+* Juegos: Los videojuegos son mi pasión. Ya sea jugando o creando, encuentro inspiración en la creatividad y la diversión que ofrecen.
+* Lenguajes de Programación: Me siento cómodo con varios lenguajes, como Javascript, C, Python y más. Cada uno tiene su propio encanto y aplicaciones únicas.
+* Nuevos Desafíos: No hay nada más emocionante que enfrentarse a un problema complejo y encontrar soluciones ingeniosas. Los desafíos me motivan a crecer y mejorar constantemente.
+   
+¡Conéctate conmigo en GitHub y exploremos juntos el emocionante mundo de la tecnología y la programación! 🚀
+
 ### Social Media
 [![Facebook](https://img.shields.io/badge/facebook---?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](htts://facebook.com/https://www.facebook.com/isaac.maldonado.921/)
 [![Twitter](https://img.shields.io/badge/%40isaacmaldonad21---?style=for-the-badge&logo=x&logoColor=white&color=black)](httts://twitter.com/isaacamaldonad21)
@@ -34,15 +47,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=vim-improved&theme=dark)](https://github.com/isaac1965/vim-improved) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=Neovim&theme=dark)](https://github.com/isaac1965/Neovim)
 
-**isaac1965** 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 📫 How to reach me: isaacmaldonado21@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Vim Vimscript
 
 <p><a href="https://www.buymeacoffee.com/https://paypal.me/buymeacoffe1996?country.x=VE&locale.x=es_XC"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://paypal.me/buymeacoffe1996?country.x=VE&locale.x=es_XC" /></a></p><br><br>
