@@ -7,10 +7,10 @@
 Soy un apasionado de la tecnología, los juegos y los desafíos en el mundo de la programación. Mi objetivo es explorar nuevas posibilidades y aprender constantemente. Siempre estoy emocionado por las últimas tendencias y las herramientas más innovadoras.
 Mis Intereses
 
-* Tecnología: Me encanta estar al día con las últimas novedades en el mundo de la tecnología. Desde inteligencia artificial hasta desarrollo web, siempre estoy investigando y experimentando.
-* Juegos: Los videojuegos son mi pasión. Ya sea jugando o creando, encuentro inspiración en la creatividad y la diversión que ofrecen.
-* Lenguajes de Programación: Me siento cómodo con varios lenguajes, como Javascript, C, Python y más. Cada uno tiene su propio encanto y aplicaciones únicas.
-* Nuevos Desafíos: No hay nada más emocionante que enfrentarse a un problema complejo y encontrar soluciones ingeniosas. Los desafíos me motivan a crecer y mejorar constantemente.
+* :desktop_computer: Tecnología: Me encanta estar al día con las últimas novedades en el mundo de la tecnología. Desde inteligencia artificial hasta desarrollo web, siempre estoy investigando y experimentando.
+* 👾 Juegos: Los videojuegos son mi pasión. Ya sea jugando o creando, encuentro inspiración en la creatividad y la diversión que ofrecen.
+* 🧠 Lenguajes de Programación: Me siento cómodo con varios lenguajes, como Javascript, C, Python y más. Cada uno tiene su propio encanto y aplicaciones únicas.
+* ⚒️ Nuevos Desafíos: No hay nada más emocionante que enfrentarse a un problema complejo y encontrar soluciones ingeniosas. Los desafíos me motivan a crecer y mejorar constantemente.
    
 ¡Conéctate conmigo en GitHub y exploremos juntos el emocionante mundo de la tecnología y la programación! 🚀
 
