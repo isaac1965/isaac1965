@@ -17,7 +17,8 @@ Connect with me on GitHub, and let’s explore the exciting world of technology 
 [![FACEBOOK](https://img.shields.io/badge/FACEBOOK---?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/isaac.maldonado.921/)
 [![TWITTER](https://img.shields.io/badge/%40ISAACMALDONAD21---?style=for-the-badge&logo=x&logoColor=white&color=black)](https://twitter.com/isaacmaldonad21)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM---?style=for-the-badge&logo=instagram&logoColor=white&color=%23f14c55)](https://instagram.com/isaacmaldonado1996/)
-[![GITHUB PAGES](https://img.shields.io/badge/GITHUB-PAGES---?style=for-the-badge&logo=github&logoColor=white&color=%23262626)](https://github.com/isaac1965.github.io/)
+[![GITHUB PAGES](https://img.shields.io/badge/PAGES---?style=for-the-badge&logo=github&logoColor=white&label=GITHUB&labelColor=gray&color=black)](https://isaac1965.github.io/)
+
 
 <h2>📌 Technologies:</h2> 
 
