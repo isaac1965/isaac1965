@@ -15,7 +15,6 @@ Connect with me on GitHub, and let’s explore the exciting world of technology 
 <h2>📌 Social Media:</h2>
 
 [![FACEBOOK](https://img.shields.io/badge/FACEBOOK---?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/isaac.maldonado.921/)
-
 [![Twitter](https://img.shields.io/badge/%40isaacmaldonad21---?style=for-the-badge&logo=x&logoColor=white&color=black)](httts://twitter.com/isaacamaldonad21/)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM---?style=for-the-badge&logo=instagram&logoColor=white&color=%23f14c55)](https://instagram.com/isaacmaldonado1996/)
 [![GITHUB PAGES](https://img.shields.io/badge/GITHUB-PAGES---?style=for-the-badge&logo=github&logoColor=white&color=%23262626)](https://github.com/isaac1965.github.io/)
