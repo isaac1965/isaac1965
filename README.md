@@ -1,8 +1,9 @@
  <h1 align="center">Hi there!<img src="https://media.giphy.com/media/3ohhwExYXg3q8oC26Q/giphy.gif" width=50></img></h1>
 
 ![banner](assets/banner-3.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&pause=1000&color=77F724&random=false&width=1900&height=520&lines=Hello+again%2C+I'm++Isaac++front-end;and+I+like+the+world+of+programming;Without+further+ado+let's+begin...)](https://git.io/typing-svg)
 
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&pause=1000&color=77F724&random=false&width=1900&height=520&lines=Hello+again%2C+I'm++Isaac++front-end;and+I+like+the+world+of+programming;Without+further+ado+let's+begin...)](https://git.io/typing-svg)-->
+ 
  <h2 >🍪 ☕ About me: </h2>
 
 I’m passionate about technology, games, and challenges in the world of programming. My goal is to explore new possibilities and learn constantly. I’m always excited about the latest trends and innovative tools. My Interests:
