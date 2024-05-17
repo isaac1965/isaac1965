@@ -1,6 +1,6 @@
  <h1 align="center">Hi there!<img src="https://media.giphy.com/media/3ohhwExYXg3q8oC26Q/giphy.gif" width=50></img></h1>
 
-![banner](assets/banner-3.gif)
+![banner](assets/img3.png)
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&pause=1000&color=77F724&random=false&width=1900&height=520&lines=Hello+again%2C+I'm++Isaac++front-end;and+I+like+the+world+of+programming;Without+further+ado+let's+begin...)](https://git.io/typing-svg)-->
  
