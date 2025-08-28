@@ -4,7 +4,7 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&pause=1000&color=77F724&random=false&width=1900&height=520&lines=Hello+again%2C+I'm++Isaac++front-end;and+I+like+the+world+of+programming;Without+further+ado+let's+begin...)](https://git.io/typing-svg)-->
  
- <h2 >🍪 ☕ About me: </h2>
+ <h2 align="center">🍪 ☕ About me: </h2>
 
 I’m passionate about technology, games, and challenges in the world of programming. My goal is to explore new possibilities and learn constantly. I’m always excited about the latest trends and innovative tools. My Interests:
 * 🖥️ Technology: I love staying up-to-date with the latest developments in the tech world. From artificial intelligence to web development, I’m always researching and experimenting. 
@@ -14,7 +14,7 @@ I’m passionate about technology, games, and challenges in the world of program
 
 Connect with me on GitHub, and let’s explore the exciting world of technology and programming together! 🚀
 
-<h2>📌 Social Media:</h2>
+<h2 align="center">📌 Social Media:</h2>
 
 [![FACEBOOK](https://img.shields.io/badge/FACEBOOK---?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/isaac.maldonado.921/)
 [![TWITTER](https://img.shields.io/badge/%40ISAACMALDONAD21---?style=for-the-badge&logo=x&logoColor=white&color=black)](https://twitter.com/isaacmaldonad21)
@@ -22,7 +22,7 @@ Connect with me on GitHub, and let’s explore the exciting world of technology 
 [![GITHUB PAGES](https://img.shields.io/badge/PAGES---?style=for-the-badge&logo=github&logoColor=white&label=GITHUB&labelColor=gray&color=black)](https://isaac1965.github.io/)
 
 
-<h2>📌 Technologies:</h2> 
+<h2 align="center">📌 Technologies:</h2> 
 
 
 ![HTML5](https://img.shields.io/badge/html5---?style=for-the-badge&logo=html5&logoColor=white&color=orange) 
