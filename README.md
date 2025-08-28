@@ -45,7 +45,7 @@ Connect with me on GitHub, and let’s explore the exciting world of technology 
 
 ![SKILLS](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac1965&hide_progress=true&theme=dark)
 
-<h2><img src="https://media.giphy.com/media/xUA7bcJspBQvTfOne0/giphy.gif" width=50></img>Repositories that may interest you: </h2>
+<h2 align="center"><img src="https://media.giphy.com/media/xUA7bcJspBQvTfOne0/giphy.gif" width=50></img>Repositories that may interest you: </h2>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=vim-improved&theme=dark&show_owner=true)](https://github.com/isaac1965/vim-improved) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=Neovim&theme=dark&show_owner=true)](https://github.com/isaac1965/Neovim)
