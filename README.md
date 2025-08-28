@@ -24,6 +24,7 @@ Connect with me on GitHub, and let’s explore the exciting world of technology 
 
 <h2>📌 Technologies:</h2> 
 
+<p align="center">
 ![HTML5](https://img.shields.io/badge/html5---?style=for-the-badge&logo=html5&logoColor=white&color=orange) 
 ![CSS3](https://img.shields.io/badge/CSS3---?style=for-the-badge&logo=css3&logoColor=white&color=%20%232a0ecc%20)
 ![BOOSTRAP  ](https://img.shields.io/badge/BOOTSTRAP---?style=for-the-badge&logo=bootstrap&logoColor=white&color=%237a10f7)
@@ -32,6 +33,7 @@ Connect with me on GitHub, and let’s explore the exciting world of technology 
 ![BASHSCRIPT](https://img.shields.io/badge/bashscript---?style=for-the-badge&logo=gnu%20bash&logoColor=white&color=black)
 ![LINUX](https://img.shields.io/badge/LINUX---?style=for-the-badge&logo=gnu&logoColor=white&color=gray)
 ![NEOVIM](https://img.shields.io/badge/NEOVIM---?style=for-the-badge&logo=neovim&logoColor=white&color=%20%23298926)
+</p>
 
 <h2><img src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif" width=50></img>My Stats: </h2>
 
@@ -45,9 +47,8 @@ Connect with me on GitHub, and let’s explore the exciting world of technology 
 
 <h2><img src="https://media.giphy.com/media/xUA7bcJspBQvTfOne0/giphy.gif" width=50></img>Repositories that may interest you: </h2>
 
-<p align="center">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=vim-improved&theme=dark&show_owner=true)](https://github.com/isaac1965/vim-improved) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?   username=isaac1965&repo=Neovim&theme=dark&show_owner=true)](https://github.com/isaac1965/Neovim) 
-</p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=vim-improved&theme=dark&show_owner=true)](https://github.com/isaac1965/vim-improved) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?   username=isaac1965&repo=Neovim&theme=dark&show_owner=true)](https://github.com/isaac1965/Neovim)
 
 <h3 align="center">Support:</h3>
 <p align="center">
