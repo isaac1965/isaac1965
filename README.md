@@ -35,12 +35,12 @@ Connect with me on GitHub, and let’s explore the exciting world of technology 
 ![NEOVIM](https://img.shields.io/badge/NEOVIM---?style=for-the-badge&logo=neovim&logoColor=white&color=%20%23298926)
 
 
-<h2><img src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif" width=50></img>My Stats: </h2>
+<h2 align="center"><img src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif" width=50></img>My Stats: </h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac1965&show_icons=true&theme=dark&rank_icon=github) 
   
 
-<h2><img src="https://media.giphy.com/media/l46CBW3gBjDxj2Skg/giphy.gif" width=50></img>Skills: </h2>
+<h2 align="center"><img src="https://media.giphy.com/media/l46CBW3gBjDxj2Skg/giphy.gif" width=50></img>Skills: </h2>
 
 
 ![SKILLS](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac1965&hide_progress=true&theme=dark)
