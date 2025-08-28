@@ -45,8 +45,9 @@ Connect with me on GitHub, and let’s explore the exciting world of technology 
 
 <h2><img src="https://media.giphy.com/media/xUA7bcJspBQvTfOne0/giphy.gif" width=50></img>Repositories that may interest you: </h2>
 
+<p aligh="center">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=vim-improved&theme=dark&show_owner=true)](https://github.com/isaac1965/vim-improved) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaac1965&repo=Neovim&theme=dark&show_owner=true)](https://github.com/isaac1965/Neovim)
-
+</p>
 <h3 align="center">Support:</h3>
 <p align="center">
   <a href="https://paypal.me/buymeacoffe1996?country.x=VE&locale.x=es_XC"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@buymeacoffe1996"/></a
